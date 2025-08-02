@@ -1,26 +1,26 @@
 # 🌊 SeaChlor-Predictor
 
-**Predicting Sea Surface Temperature (SST) and Chlorophyll-a concentrations using NASA's satellite data.**  
-This project leverages data from the [NASA Earthdata](https://earthdata.nasa.gov/) platform, processed with SeaDAS, and analyzed using Python.
+**Predicting Sea Surface Temperature (SST) and Chlorophyll-a concentrations using satellite remote sensing data.**  
+This project uses data sourced from the [Earthdata portal](https://earthdata.nasa.gov/) and processed using SeaDAS and Python-based analysis.
 
 ---
 
 ## 📌 Project Objective
 
-- Analyze historical patterns in **Sea Surface Temperature (SST)** and **Chlorophyll-a** using remote sensing.
-- Use satellite data from selected years: **2004**, **2013**, and **2023**.
-- Build a basic machine learning model for future environmental monitoring.
+- Analyze historical patterns in **Sea Surface Temperature (SST)** and **Chlorophyll-a** from selected years: **2004**, **2013**, and **2023**.
+- Use remote sensing data to study marine environmental conditions.
+- Build basic predictive models to support environmental monitoring and forecasting.
 
 ---
 
 ## 🛰️ Data Source
 
-**🔗 NASA Earthdata Portal**  
-All datasets used in this project were downloaded from:
+**🔗 Earthdata Portal**  
+All datasets were downloaded from:
 
 👉 https://earthdata.nasa.gov/
 
-You must create a free **Earthdata Login** to download datasets from MODIS, VIIRS, and OceanColor archives.
+To download satellite products, you must register for a free **Earthdata Login** account.
 
 ---
 
